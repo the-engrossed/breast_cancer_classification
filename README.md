@@ -33,10 +33,12 @@ Support Vector Machine
 ## Results after sclaing the training set
 ![Project Diagram](output1.png)
 
-![Project Diagram](Screenshot 2025-07-19 at 3.07.16 PM.png)
+Accuracy & Precision details
+![Project Diagram](Screenshot1.png)
 
 ## Results after further improvement using C and gamma values
 ![Project Diagram](output2.png)
 
-![Project Diagram](Screenshot 2025-07-19 at 3.10.31 PM.png)
+Accuracy and precision details
+![Project Diagram](Screenshot2.png)
 
